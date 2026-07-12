@@ -16,12 +16,6 @@ This is the core baseline repository for the FlyRank Frontend AI Engineering cap
  npm install
 
 
-Sorry
-
-😄
-😁
-😅
-
 
 
 ## Project Architecture
